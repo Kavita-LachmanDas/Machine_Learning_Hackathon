@@ -79,3 +79,7 @@ Multiple regression models were tested, including:
 
 ```python
 # Gradient Boosting Regressor Code (same as before)
+
+```
+## 📂 Access the Colab Notebook
+For a detailed walkthrough of the code and methodology, please refer to the [Google Colab Notebook](https://colab.research.google.com/drive/14PtiXj2Qz4AYoQmXERp8_SV6xHNcoDfr?usp=sharing)
